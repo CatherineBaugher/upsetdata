@@ -1,9 +1,0 @@
-{
-    "file": "https://raw.githubusercontent.com/CatherineBaugher/upsetdata/master/rffeats-upset.csv",
-    "name": "Features from Random Forest",
-    "header": 0,
-    "separator": ";",
-    "sets": [
-        { "format": "binary", "start": 1, "end": 14}
-    ]
-}
