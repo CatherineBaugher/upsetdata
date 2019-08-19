@@ -1,0 +1,9 @@
+{
+    "file": "https://raw.githubusercontent.com/CatherineBaugher/upsetdata/master/enrfeats-upset.csv",
+    "name": "Features from Enrichment Analysis",
+    "header": 0,
+    "separator": ";",
+    "sets": [
+        { "format": "binary", "start": 1, "end": 12}
+    ]
+}
