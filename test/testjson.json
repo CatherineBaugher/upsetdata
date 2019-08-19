@@ -3,7 +3,11 @@
     "name": "Features from Enrichment Analysis",
     "header": 0,
     "separator": ";",
+    "skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Window_Pair" }
+	],
     "sets": [
-        { "format": "binary", "start": 1, "end": 12}
+        { "format": "binary", "start": 1, "end": 13}
     ]
 }
