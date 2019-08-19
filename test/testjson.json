@@ -1,5 +1,5 @@
 {
-    "file": "https://raw.githubusercontent.com/CatherineBaugher/upsetdata/test/master/test-upset.csv",
+    "file": "https://raw.githubusercontent.com/CatherineBaugher/upsetdata/master/test/test-upset.csv",
     "name": "Features from Enrichment Analysis",
     "header": 0,
     "separator": ";",
