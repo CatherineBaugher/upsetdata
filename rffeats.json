@@ -3,7 +3,11 @@
     "name": "Features from Random Forest",
     "header": 0,
     "separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Window_Pair" }
+	],
     "sets": [
-        { "format": "binary", "start": 1, "end": 14}
+        { "format": "binary", "start": 1, "end": 15}
     ]
 }
