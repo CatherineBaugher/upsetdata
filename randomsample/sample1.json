@@ -1,0 +1,13 @@
+{
+    "file": "https://raw.githubusercontent.com/CatherineBaugher/upsetdata/master/test/sample1.csv",
+    "name": "Features from Radar Plot - Random Sample 1",
+    "header": 0,
+    "separator": ";",
+    "skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Window_Pair" }
+	],
+    "sets": [
+        { "format": "binary", "start": 1, "end": 24}
+    ]
+}
